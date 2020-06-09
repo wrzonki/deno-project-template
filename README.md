@@ -1,5 +1,11 @@
 # Deno project template
 
+## This repo
+
+### Use [degit](https://github.com/Rich-Harris/degit)
+- Install `npm install -g degit`
+- Run `degit wrzonki/deno-project-template my_repo`
+
 ## VS Code
 
 - Instal [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
